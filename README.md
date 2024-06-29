@@ -3,8 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Foro hub</title>
-
 </head>
 <body>
     <h1>Hola y bienvenidos a mi foro hub de challenge en ALURA</h1>
